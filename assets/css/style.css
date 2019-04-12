@@ -1,0 +1,136 @@
+header{
+    /* background: url(../images/building.jpg); */
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.bg-light {
+    background-color: transparent!important;
+}
+.nav-link{
+    margin: 10px;
+   color:#ffffff !important;
+   font-size: 15px;
+}
+.navbar-brand{
+    margin-top: 10px;
+    color:#ffffff !important;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.navbar{
+    height: 100px;
+}
+
+.text-field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 100px);
+    color: #fff;
+    flex-direction: column;
+    font-size: 100px;
+}
+
+.hero{
+    font-size: 15px;
+    padding-left: 230px;
+    margin-top: -25px;
+    margin-left: 60px;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+.nav-link {
+    margin: 10px;
+    color: #da6969 !important;
+    font-size: 15px;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+.form-group {
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+}
+body{
+	/*background-color: grey;*/
+	font-family: 'Raleway';
+}
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.navbar-default .navbar-brand {
+    color: #000;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+#main-header{
+	background-color: #F9F9FF;
+	/*margin-top: 50px;*/
+
+}
+.left{
+	padding-top: 200px;
+	padding-bottom: 30px;
+}
+.left h1{
+	font-size: 40px;
+	font-weight: 800;
+	padding-bottom: 20px;
+}
+.left p{
+	padding-bottom: 20px;
+}
+#main-personal-details{
+	background-color: white;
+}
+.right{
+	padding: 100px;
+}
+.personal-left{
+	padding-top: 100px;
+}
+.personal-left h1{
+	font-size: 40px;
+	font-weight: 800;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+.personal-left p{
+	padding-bottom: 20px;
+
+}
+#main-services{
+	text-align: center;
+	background-color: white;
+	padding-bottom: 50px;
+
+}
+#main-project{
+	text-align: center;
+	padding-top: 50px;
+	background-color: white;
+	font-size: 20px;
+}
+#main-project p{
+padding-bottom: 100px;
+}
+footer{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #04091E;
+	color: grey;
+
+} 
+footer h4{
+	color: white;
+}
